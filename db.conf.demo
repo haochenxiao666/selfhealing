@@ -1,0 +1,11 @@
+[dbconfig]
+db =
+host =
+user = 
+passwd =
+charset =
+timeout =
+
+[DingURL]
+DingURL1 =
+DingURL2 = 

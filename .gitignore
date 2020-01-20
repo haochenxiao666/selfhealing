@@ -1,0 +1,6 @@
+logs/*
+env/*
+db.conf
+*.py[cod]
+keys/*
+nohup.out
